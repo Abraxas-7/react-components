@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+}
+
+h1 {
+  font-size: 3rem;
+}
